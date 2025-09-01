@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "992545cf050d93efc17e4a34aae4830c67cc5775dc90263a79d95eae9abbdfc4"
+file = "PACK_OVERVIEW.md"
+hash = "cf568e8731e4d470adee3a41704b8dc365fcbfbe0fcb7c224c111ab2d7715612"
 
 [[files]]
 file = "mods/alexs-caves-delight-(-farmers-delight-alexs-caves-add-on).pw.toml"
@@ -768,3 +768,11 @@ metafile = true
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "612f34b57df3396413db1ba79f99e057da377a8725887ca21b415acd85cb65b5"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.properties"
+hash = "24ec4008ba467894be0cbf92dd6a108972a282876c80b768cddb8e45131c39fe"
