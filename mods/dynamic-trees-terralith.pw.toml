@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Terralith"
+filename = "DynamicTreesTerralith-1.20.1-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o8eM9Cnp/versions/B7b46kQA/DynamicTreesTerralith-1.20.1-1.2.5.jar"
+hash-format = "sha512"
+hash = "c4923fb14dc45e2eb9989596dddf09ac077cd053ea6f7f459bc70a3144efef7cff0a7c56d6fdcbf0e5578bb1115c059362aab61ae562432fa46b865c6e83fa2f"
+
+[update]
+[update.modrinth]
+mod-id = "o8eM9Cnp"
+version = "B7b46kQA"

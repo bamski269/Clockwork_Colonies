@@ -1,0 +1,13 @@
+name = "Minecolonies TH Advancements"
+filename = "minecolonies_th_advancements-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fVEKvpTv/versions/7vZDA8e5/minecolonies_th_advancements-1.0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "bb5949da2d0f9632d3f3f447570e3818bc2cb4c8021bc6edc93c1c2bc2c5429ae580961a98ba80a1f954f5f6eb1da9af23b7db8a42fd2d119d2faa027868fdba"
+
+[update]
+[update.modrinth]
+mod-id = "fVEKvpTv"
+version = "7vZDA8e5"

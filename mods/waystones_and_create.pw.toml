@@ -1,0 +1,13 @@
+name = "Waystones and Create"
+filename = "WaystoneAndCreate-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/efQIJZNM/versions/JWf8DaK0/WaystoneAndCreate-1.20.1.jar"
+hash-format = "sha512"
+hash = "74a8894130446d19cec72fb06fcfbd6b1c0114ef25ed66dc33e83812eeff9b7c4e39b3c2bc6a3874d5b66e9a9bdcc6279e0f2c871335fcffbca342cd273ac5f8"
+
+[update]
+[update.modrinth]
+mod-id = "efQIJZNM"
+version = "JWf8DaK0"

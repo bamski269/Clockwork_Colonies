@@ -1,0 +1,13 @@
+name = "Delightful Creators"
+filename = "delightfulcreators-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jmJ87gsb/versions/rFt8RHnt/delightfulcreators-1.2.jar"
+hash-format = "sha512"
+hash = "1529a7787f63274074377875c66c4d32f88e9f0aff3b30d4c6d9c141b64dc7f7bbef3a3721064349020b30c59c31fe1f5fb39176eb085a6ca4dc5e0e905dd437"
+
+[update]
+[update.modrinth]
+mod-id = "jmJ87gsb"
+version = "rFt8RHnt"
